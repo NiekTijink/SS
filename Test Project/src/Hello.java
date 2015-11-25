@@ -1,4 +1,6 @@
 
 public class Hello {
-//hooi
+
+	public Hello() {
+	}
 }
